@@ -23,5 +23,5 @@ This is a simple math quiz game implemented in PHP. The objective of the game is
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/math-quiz-game.git
+   git clone https://github.com/Gbs5676/Math-quiz-PHP-.git
    cd math-quiz-game
